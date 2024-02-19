@@ -5,7 +5,7 @@ require('dotenv').config();
 
 
 //const mongoDBURL=process.env.mongoDB_URL_LOCAL;
-const mongoDBURL=process.env.mongoDB_URL;
+const mongoDBURL=process.env.MONGODB_URL;
 
 
 
